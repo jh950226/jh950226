@@ -50,7 +50,7 @@
     <td>
       - Pandas와 Openpyxl을 활용한 데이터 자동화 파이프라인 구축<br>
       - 70,000+ row, 15col 규모의 데이터 처리 및 DB 업로드<br>
-      - 성과: 마블과 국내 영화 산업 간의 상관관계 시각화 및 분석 자료 도출<br>
+      - 성과: 마블과 국내 영화 산업 간의 상관관계 시각화 및 분석<br>
       - 기술스택: Python, Pandas, Matplotlib, MySQL
     </td>
   </tr>
