@@ -27,7 +27,7 @@
       - 동적 웨이포인트 추가 및 경로 최적화 구현<br>
       - Aruco Marker 기반 로봇 위치 보정 및 장애물 회피 주행<br>
       - 성과: 객체 탐지 시 경로 변경 및 목표 위치 정확도 ±5cm 달성<br>
-      - 기술스택: ROS2, Nav2, YOLO, Python
+      - 기술스택: ROS2, SLAM, Nav2, YOLO, Python
     </td>
     <td>
       - YOLO-Pose 및 LSTM 모델을 통한 폭력 행동 실시간 탐지<br>
