@@ -11,12 +11,11 @@
   실시간 지도 생성 및 장애물 회피 주행<br>
   지능형 CCTV 시스템 개발 및 행동 분석<br>
   RFID 기반 임베디드 시스템 개발 및 DB 자동화
-
 </p>
 
 ---
 
-<h3>🚀 <strong>Project Portfolio</strong> 🚀</h3>
+<h3>📘 <strong>Project Overview</strong> 📘</h3>
 
 <table>
   <tr>
@@ -58,3 +57,16 @@
 </table>
 
 </div>
+
+---
+<div align="center">
+
+<h3>📄 <strong>포트폴리오(PDF)</strong></h3>
+<p>
+<a href="https://drive.google.com/file/d/1HTysJdcCBJKUBnN5VaKiaRpF5l_cO6N5/view?usp=sharing" target="_blank">
+📎 클릭하여 포트폴리오 보기 (Google Drive)
+</a>
+</p>
+<p>
+📝 본 포트폴리오는 <strong>PowerPoint 형식(.pptx)</strong>으로 제작된 내용을 보기 편하도록 <strong>PDF 형식</strong>으로 변환한 자료입니다.
+</p>
