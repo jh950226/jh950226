@@ -1,6 +1,6 @@
 <div align="center">
 
-<h4>미래를 이끄는 로봇 기술, 그 변화를 주도하는 인재로</h4>
+<h4></h4>
 
 <h2><strong>' 유재현 '</strong></h2>
 
